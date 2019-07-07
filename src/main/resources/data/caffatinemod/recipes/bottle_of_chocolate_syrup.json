@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:glass_bottle"
+        },
+        {
+            "item": "minecraft:sugar"
+        },
+        {
+            "item": "minecraft:cocoa_beans"
+        }
+    ],
+    "result": {
+        "item": "caffatinemod:bottle_of_chocolate_syrup",
+        "count": 1
+    }
+}

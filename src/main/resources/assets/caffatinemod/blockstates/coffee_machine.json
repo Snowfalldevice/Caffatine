@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "facing=south": { 
+      "model": "caffatinemod:block/coffee_machine" },
+    "facing=west": { 
+      "model": "caffatinemod:block/coffee_machine", "y": 90},
+    "facing=north":  { 
+      "model": "caffatinemod:block/coffee_machine", "y": 180 },
+    "facing=east":  { 
+      "model": "caffatinemod:block/coffee_machine", "y": 270 }
+  }
+}

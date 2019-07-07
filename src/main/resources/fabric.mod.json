@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "caffatinemod",
+  "version": "${version}",
+
+  "name": "Caffatine",
+  "description": "This is an example description! Tell everyone what your mod is about!",
+  "authors": [
+    "Snowfalldevice"
+  ],
+  "contact": {
+    "homepage": "https://github.com/snowfalldevice/",
+    "sources": "https://github.com/snowfalldevice/Caffatine"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/caffatinemod/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "me.caffatine.Caffatinemod"
+    ]
+  },
+  "mixins": [
+    "caffatinemod.mixins.json"
+    ],
+
+  "depends": {
+    "fabricloader": ">=0.4.0",
+    "fabric": ">=0.3.0",
+    "cotton": ">=0.8.3-pre"
+  },
+  "suggests": {
+    "flamingo": "*"
+  }
+}

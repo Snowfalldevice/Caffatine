@@ -1,0 +1,14 @@
+Coffee plant -> Coffee Berries -> Coffee Beans -> Cup of coffee
+    n               u
+    =================
+
+Porcelain clay -> Unbaked Cup-> Coffee cup -> Cup of coffee
+
+Coffee Beans ( Stages: Light Roast(10 minute potion effects) -> Medium Roast(30 minute potion effects)  -> Dark Roast(1 hour potion effects) )
+
+Chocolate Syrup
+Simple Syrup
+Steamed Milk
+
+
+Coffee Plant will grow like Sweet berries but looks like stalks of sugar cane but with small brances with berries on final stage

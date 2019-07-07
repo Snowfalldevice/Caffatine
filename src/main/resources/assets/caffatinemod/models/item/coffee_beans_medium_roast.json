@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+      "layer0": "caffatinemod:item/coffee_beans_medium_roast"
+    }
+}

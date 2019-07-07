@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#A#",
+        "#C#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "caffatinemod:porcelain_clay_ball"
+        },
+        "C": {
+            "item": "caffatinemod:coffee_beans"
+        },
+        "A": {
+            "item": "minecraft:air"
+        }
+    },
+    "result": {
+        "item": "caffatinemod:unbaked_cup",
+        "count": 1
+    }
+}
