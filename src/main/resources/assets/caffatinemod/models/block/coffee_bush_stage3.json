@@ -1,6 +1,0 @@
-{
-    "parent": "block/crop",
-    "textures": {
-        "crop": "caffatinemod:block/coffee_bush_stage0"
-    }
-}

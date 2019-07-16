@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "caffatinemod",
+  "id": "caffatine",
   "version": "${version}",
 
   "name": "Caffatine",
@@ -14,22 +14,18 @@
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/caffatinemod/icon.png",
+  "icon": "assets/caffatine/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "me.caffatine.Caffatinemod"
+      "me.caffatine.Caffatine"
     ]
   },
-  "mixins": [
-    "caffatinemod.mixins.json"
-    ],
 
   "depends": {
-    "fabricloader": ">=0.4.0",
-    "fabric": ">=0.3.0",
-    "cotton": ">=0.8.3-pre"
+    "fabricloader": ">=0.4.5",
+    "fabric": ">=0.3.0"
   },
   "suggests": {
     "flamingo": "*"

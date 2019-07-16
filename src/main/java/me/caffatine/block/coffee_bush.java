@@ -24,7 +24,7 @@ import java.util.List;
 public class coffee_bush extends CropBlock {
 	public final Item cropItem;
 	private final int resetGrowthTo;
-	public static final IntProperty AGE = Properties.AGE_3;
+	public static final IntProperty AGE = Properties.AGE_7;
 
 	public coffee_bush (Item cropItem, int resetGrowthTo) {
 		super(FabricBlockSettings.of(Material.PLANT).sounds(BlockSoundGroup.CROP).ticksRandomly().breakInstantly().build().noCollision());

@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "caffatine:cup"
+        },
+        {
+            "item": "caffatine:coffee_beans"
+        }
+    ],
+    "result": {
+        "item": "caffatine:cup_of_coffee",
+        "count": 1
+    }
+}

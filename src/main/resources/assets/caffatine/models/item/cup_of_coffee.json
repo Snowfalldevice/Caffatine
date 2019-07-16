@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+      "layer0": "caffatine:item/cup_of_coffee"
+    }
+  }
+  

@@ -1,0 +1,17 @@
+{
+    "itemGroup.caffatine.caffatine_group": "Caffatine",
+    "item.caffatine.cup": "Empty Coffee cup",
+    "item.caffatine.coffee_beans": "Coffee Beans",
+    "item.caffatine.misc_cup": "Empty Coffee Cup",
+    "item.caffatine.coffee_berries":  "Coffee Berries",
+    "item.caffatine.cup_of_coffee": "Cup of Coffee",
+    "item.caffatine.coffee_beans_light_roast": "Lightly Roasted Coffee Beans",
+    "item.caffatine.coffee_beans_medium_roast": "Medium Roasted Coffee Beans",
+    "item.caffatine.coffee_beans_dark_roast":  "French Roast Coffee Beans",
+    "item.caffatine.bottle_of_chocolate_syrup": "Bottle Of Chocolate Syrup",
+    "item.caffatine.bottle_of_simple_syrup": "Simple Syrup Bottle",
+    "item.caffatine.unbaked_cup": "Unbaked Coffee Cup",
+    "item.caffatine.porcelain_clay_ball": "Porcelain Clay",
+    "item.caffatine.steamed_milk_bucket": "Steaming Hot Milk",
+    "block.caffatine.coffee_bush": "Coffee Bush"
+}
